@@ -166,6 +166,6 @@
 | 23  | How do you perform form validation using JavaScript?                     |
 | 24  | What are the different ways to create objects in JavaScript?             |
 | 25  | Explain the difference between Object-Oriented Programming and Functional Programming in JavaScript. |
-| 26  | What are observables?                                                    |
+| 26  | What are observables   bghghhh  ?                                                    |
 | 27  | What are event emitters in JavaScript?                                   |
 | 28  | Is JavaScript single-threaded or multi-threaded?                         |
